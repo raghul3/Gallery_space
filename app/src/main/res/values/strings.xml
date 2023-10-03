@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Messi Gallery</string>
+    <string name="quote1">"'Sometimes you have to accept you can't win all the time.' - "</string>
+    <string name="imagename1">Lionel Messi</string>
+    <string name="button1">Previous</string>
+    <string name="button2">Next</string>
+    <string name="quote2">"'You have to fight to reach your dream. You have to sacrifice and work hard for it.'"</string>
+    <string name="quote3">"'You can overcome anything, if and if only you love something enough.'"</string>
+    <string name="quote4">"'I start early and I stay late, day after day, year after year, it took me 17 years and 114 days to become an overnight success.'"</string>
+    <string name="quote5">"'I’m happy with a ball at my feet. My motivation comes from playing the game I love.'"</string>
+
+
+
+
+
+</resources>
